@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm George Shi
 
-<!--
-**shigeorgie/shigeorgie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical and Computer Engineering Student @WPI | 🖥 Digital Design | 🎛 Analog & RF Design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a passionate undergraduate exploring the intersection of hardware and software. I enjoy building and experimenting with embedded systems, PCBs, and digital/analog signal processing.
+
+I’m currently focused on:
+- FPGA projects and Verilog
+- Analog and mixed signal circuit design & simulation
+- Learning about the field of IC design
+
+---
+
+## 🛠️ Projects
+
+### 🎛️ FPGA Audio FFT Analyzer
+Real-time audio visualizer using Verilog on the Basys3 board. Includes a microphone input preamp and displays output via SSD1306 OLED.
+
+- Verilog, I²C, Digital Signal Processing
+
+### 📻 Custom Mic Preamp + ADC Interface
+Designed and
