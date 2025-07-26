@@ -17,7 +17,7 @@ I’m currently focused on:
 
 ## 🛠️ Projects
 
-### 🎛️ FPGA Audio FFT Analyzer
+### 🎛️ Audio Spectrum Display
 Real-time audio visualizer using Verilog on the Basys3 board. Includes a microphone input preamp and displays output via SSD1306 OLED.
 
 - Verilog, I²C, Digital Signal Processing
